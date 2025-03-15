@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Django REST Framework, FastAPI, and SQLModel<br>🎯 Goals: Building scalable web applications and creating impactful APIs<br>🎲 Fun fact: I’m a problem-solver at heart and enjoy taking on new challenges!</p>
+<p align="left">📚 I'm currently learning: REST APIs<br>🎯 Goals: Building scalable web applications and creating impactful APIs<br>🎲 Fun fact: I’m a problem-solver at heart and enjoy taking on new challenges!</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
