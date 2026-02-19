@@ -1,4 +1,5 @@
-<h1 align="left">Hey there👋🏻</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hi%20there!&fontSize=80&animation=twinkling)
+
 
 ###
 
@@ -21,3 +22,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,github,git,postgres,redis,vscode,docker,elasticsearch,postman,powershell,sqlite,ubuntu,windows&perline=5)](https://skillicons.dev)
 
 ###
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
