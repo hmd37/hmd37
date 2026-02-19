@@ -9,13 +9,46 @@
 
 <h2 align="left">About me</h2>
 
+```yaml
+name: Ahmad Allahverdiyev
+title: Backend Developer
+location: Azerbaijan
+
+expertise:
+  - Designing scalable RESTful APIs
+  - Database architecture & optimization
+  - Authentication & authorization (JWT, permissions)
+  - Caching strategies & performance tuning
+
+core_stack:
+  language: Python
+  frameworks:
+    - Django
+    - Django REST Framework
+    - FastAPI
+  databases:
+    - PostgreSQL
+    - Redis
+    - MySQL
+
+architecture_principles:
+  - Clean Architecture
+  - Separation of Concerns
+  - SOLID principles
+  - Scalable modular design
+
+production_experience:
+  - JWT-based authentication systems
+  - Role-based & custom permission logic
+  - Caching with Redis
+  - Background task processing concepts
+  - Optimized database queries & indexing
+
+```
+
 ###
 
-<p align="left">📚 I'm currently learning: REST APIs<br>🎯 Goals: Building scalable web applications and creating impactful APIs<br>🎲 Fun fact: I’m a problem-solver at heart and enjoy taking on new challenges!</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
