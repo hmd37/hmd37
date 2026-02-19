@@ -73,4 +73,8 @@ production_experience:
 </p>
 
 ###
+
+![Snake animation](https://github.com/hmd37/hmd37/blob/output/github-contribution-grid-snake.svg)
+
+###
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
