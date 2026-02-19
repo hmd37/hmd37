@@ -74,7 +74,20 @@ production_experience:
 
 ###
 
-![Snake animation](https://github.com/hmd37/hmd37/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hmd37/hmd37/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hmd37/hmd37/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hmd37/hmd37/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
